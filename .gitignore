@@ -1,0 +1,12 @@
+# Python automatic files aur cache ko ignore karne ke liye
+__pycache__/
+*.pyc
+
+# Agar virtual environment banaya hai toh use ignore karne ke liye
+venv/
+.venv/
+env/
+
+# System specific files
+.DS_Store
+Thumbs.db
